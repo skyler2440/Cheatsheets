@@ -1,5 +1,5 @@
-#Html Cheatsheet List
+# Html Cheatsheet List
 
-##CSS
+## CSS
 
-[The Ultimate CSS Selector Cheat Sheet](#https://www.adtrak.co.uk/blog/the-ultimate-css-selectors-cheatsheet/)
+[The Ultimate CSS Selector Cheat Sheet](https://www.adtrak.co.uk/blog/the-ultimate-css-selectors-cheatsheet/)
